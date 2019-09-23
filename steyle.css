@@ -1,0 +1,22 @@
+img{
+    margin: 100px;
+    width: 600px;
+}
+
+
+  
+
+   
+    
+
+    
+
+.rotate:hover{
+    transform: rotate(360deg);
+    transition:transform .8s;
+}
+.scale:hover{
+  /*  transform: scaleX(0.9);*/
+transform:translate(-10px);
+
+}
